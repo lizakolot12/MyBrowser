@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FileBrowser</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_resource_description">Введите параметры ресурса</string>
+    <string name="hint_name">Название</string>
+    <string name="hint_description">Описание</string>
+    <string name="hint_path">Путь</string>
+    <string name="save">Сохранить</string>
+    <string name="title_activity_test">TestActivity</string>
+</resources>
